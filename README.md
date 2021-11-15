@@ -34,3 +34,8 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 - casual: count of casual users
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered.
+
+<h2> For Dataset Reach me: </h2>
+<p align="left">
+<a href="mailto:punithmadaiahkumar@gmail.com" target="blank"><img align="center" src="https://github.com/punithmadaiahkumar/punithmadaiahkumar/blob/main/icons/gmail.png" alt="punith_gowda35" height="40" width="40" /></a>
+</p>
