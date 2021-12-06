@@ -15,7 +15,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 - hr : hour (0 to 23)
 - holiday : weather day is holiday or not (extracted from [Web Link])
 - weekday : day of the week
-- workingday : if day is neither weekend nor holiday is 1, otherwise is 0
+- workingday : if day is neither weekend nor holiday is 1, otherwise is 0.
 
 ----------------------------------------------------------------------------------------------------------------
 
